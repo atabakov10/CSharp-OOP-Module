@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\bin\Debug\netcoreapp3.1\T03.HierarchialInheritance.exe
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\bin\Debug\netcoreapp3.1\T03.HierarchialInheritance.deps.json
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\bin\Debug\netcoreapp3.1\T03.HierarchialInheritance.runtimeconfig.json
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\bin\Debug\netcoreapp3.1\T03.HierarchialInheritance.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\bin\Debug\netcoreapp3.1\T03.HierarchialInheritance.dll
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\bin\Debug\netcoreapp3.1\T03.HierarchialInheritance.pdb
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.AssemblyInfo.cs
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.dll
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.pdb
+C:\Users\HP\source\repos\Inheritance - Lab\T03.HierarchialInheritance\obj\Debug\netcoreapp3.1\T03.HierarchialInheritance.genruntimeconfig.cache

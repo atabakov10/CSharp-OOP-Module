@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\bin\Debug\netcoreapp3.1\T01.SingleInheritance.exe
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\bin\Debug\netcoreapp3.1\T01.SingleInheritance.deps.json
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\bin\Debug\netcoreapp3.1\T01.SingleInheritance.runtimeconfig.json
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\bin\Debug\netcoreapp3.1\T01.SingleInheritance.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\bin\Debug\netcoreapp3.1\T01.SingleInheritance.dll
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\bin\Debug\netcoreapp3.1\T01.SingleInheritance.pdb
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.AssemblyInfo.cs
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.dll
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.pdb
+C:\Users\HP\source\repos\Inheritance - Lab\T01.SingleInheritance\obj\Debug\netcoreapp3.1\T01.SingleInheritance.genruntimeconfig.cache

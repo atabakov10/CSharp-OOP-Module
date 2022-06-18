@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.AssemblyInfo.cs
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\bin\Debug\netcoreapp3.1\T02.MultipleInheritance.exe
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\bin\Debug\netcoreapp3.1\T02.MultipleInheritance.deps.json
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\bin\Debug\netcoreapp3.1\T02.MultipleInheritance.runtimeconfig.json
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\bin\Debug\netcoreapp3.1\T02.MultipleInheritance.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\bin\Debug\netcoreapp3.1\T02.MultipleInheritance.dll
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\bin\Debug\netcoreapp3.1\T02.MultipleInheritance.pdb
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.dll
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.pdb
+C:\Users\HP\source\repos\Inheritance - Lab\T02.MultipleInheritance\obj\Debug\netcoreapp3.1\T02.MultipleInheritance.genruntimeconfig.cache

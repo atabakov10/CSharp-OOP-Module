@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.SingleInheritance", "T01.SingleInheritance\T01.SingleInheritance.csproj", "{7A089800-5978-4A0E-9319-120D7BE25EE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T01.SingleInheritance", "T01.SingleInheritance\T01.SingleInheritance.csproj", "{7A089800-5978-4A0E-9319-120D7BE25EE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02.MultipleInheritance", "T02.MultipleInheritance\T02.MultipleInheritance.csproj", "{1D77929B-3B9C-4A7B-AA8B-B09E3E777BCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02.MultipleInheritance", "T02.MultipleInheritance\T02.MultipleInheritance.csproj", "{1D77929B-3B9C-4A7B-AA8B-B09E3E777BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03.HierarchialInheritance", "T03.HierarchialInheritance\T03.HierarchialInheritance.csproj", "{51B84DC1-F0E4-49FC-B608-5C473E424D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03.HierarchialInheritance", "T03.HierarchialInheritance\T03.HierarchialInheritance.csproj", "{51B84DC1-F0E4-49FC-B608-5C473E424D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{C51B758A-2B35-4035-BD79-2C4B0647BF20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{51B84DC1-F0E4-49FC-B608-5C473E424D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B84DC1-F0E4-49FC-B608-5C473E424D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B84DC1-F0E4-49FC-B608-5C473E424D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51B758A-2B35-4035-BD79-2C4B0647BF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51B758A-2B35-4035-BD79-2C4B0647BF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51B758A-2B35-4035-BD79-2C4B0647BF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51B758A-2B35-4035-BD79-2C4B0647BF20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\bin\Debug\netcoreapp3.1\T01.Person.exe
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\bin\Debug\netcoreapp3.1\T01.Person.deps.json
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\bin\Debug\netcoreapp3.1\T01.Person.runtimeconfig.json
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\bin\Debug\netcoreapp3.1\T01.Person.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\bin\Debug\netcoreapp3.1\T01.Person.dll
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\bin\Debug\netcoreapp3.1\T01.Person.pdb
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.dll
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.pdb
+C:\Users\HP\source\repos\Exercise Inheritance\T01.Person\obj\Debug\netcoreapp3.1\T01.Person.genruntimeconfig.cache

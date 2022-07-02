@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\bin\Debug\netcoreapp3.1\T02.SalaryIncrease.exe
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\bin\Debug\netcoreapp3.1\T02.SalaryIncrease.deps.json
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\bin\Debug\netcoreapp3.1\T02.SalaryIncrease.runtimeconfig.json
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\bin\Debug\netcoreapp3.1\T02.SalaryIncrease.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\bin\Debug\netcoreapp3.1\T02.SalaryIncrease.dll
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\bin\Debug\netcoreapp3.1\T02.SalaryIncrease.pdb
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.AssemblyInfo.cs
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.dll
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.pdb
+C:\Users\HP\source\repos\Encapsulation - Lab\T02.SalaryIncrease\obj\Debug\netcoreapp3.1\T02.SalaryIncrease.genruntimeconfig.cache

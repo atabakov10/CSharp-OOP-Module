@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\bin\Debug\netcoreapp3.1\T01.ClassBoxData.exe
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\bin\Debug\netcoreapp3.1\T01.ClassBoxData.deps.json
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\bin\Debug\netcoreapp3.1\T01.ClassBoxData.runtimeconfig.json
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\bin\Debug\netcoreapp3.1\T01.ClassBoxData.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\bin\Debug\netcoreapp3.1\T01.ClassBoxData.dll
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\bin\Debug\netcoreapp3.1\T01.ClassBoxData.pdb
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.dll
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.pdb
+C:\Users\HP\source\repos\Exercise Encapsulation\T01.ClassBoxData\obj\Debug\netcoreapp3.1\T01.ClassBoxData.genruntimeconfig.cache

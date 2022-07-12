@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\bin\Debug\netcoreapp3.1\T03.ShoppingSpree.exe
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\bin\Debug\netcoreapp3.1\T03.ShoppingSpree.deps.json
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\bin\Debug\netcoreapp3.1\T03.ShoppingSpree.runtimeconfig.json
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\bin\Debug\netcoreapp3.1\T03.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\bin\Debug\netcoreapp3.1\T03.ShoppingSpree.dll
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\bin\Debug\netcoreapp3.1\T03.ShoppingSpree.pdb
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.dll
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.pdb
+C:\Users\HP\source\repos\Exercise Encapsulation\T03.ShoppingSpree\obj\Debug\netcoreapp3.1\T03.ShoppingSpree.genruntimeconfig.cache

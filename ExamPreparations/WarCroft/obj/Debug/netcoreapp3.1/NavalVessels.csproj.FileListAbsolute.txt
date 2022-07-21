@@ -1,5 +1,0 @@
-C:\Users\Koko\source\repos\UnitTestingLab\01. Structure_Skeleton21.07\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
-C:\Users\Koko\source\repos\UnitTestingLab\01. Structure_Skeleton21.07\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Koko\source\repos\UnitTestingLab\01. Structure_Skeleton21.07\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
-C:\Users\Koko\source\repos\UnitTestingLab\01. Structure_Skeleton21.07\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
-C:\Users\Koko\source\repos\UnitTestingLab\01. Structure_Skeleton21.07\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache

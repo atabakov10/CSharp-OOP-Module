@@ -16,7 +16,17 @@ namespace WarCroft.Entities.Characters.Contracts
         private float baseArmor;
         private float armor;
 
-        
+        public Character(string name, float health, float armor, float abilityPoints, Bag bag)
+        {
+            this.Name = name;
+            this.BaseHealth = health;
+            this.BaseArmor = armor;
+            this.AbilityPoints = abilityPoints;
+            this.Bag = bag;
+            Health = BaseHealth;
+            Armor = BaseArmor;  
+        }
+
         public float Armor
         {
             get => armor;

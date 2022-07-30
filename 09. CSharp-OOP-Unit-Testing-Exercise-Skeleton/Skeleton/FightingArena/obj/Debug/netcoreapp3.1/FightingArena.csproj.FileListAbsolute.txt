@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\HP\source\repos\CSharp-OOP-Module\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

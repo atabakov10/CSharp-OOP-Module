@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+C:\Users\HP\Downloads\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

@@ -11,7 +11,7 @@ namespace Formula1.Repositories
     {
         private readonly List<IRace> races;
 
-        private RaceRepository()
+        public RaceRepository()
         {
             races = new List<IRace>();
         }

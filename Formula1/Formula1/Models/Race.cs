@@ -6,7 +6,7 @@ using Formula1.Utilities;
 
 namespace Formula1.Models
 {
-    public abstract class Race : IRace
+    public class Race : IRace
     {
         private string raceName;
         private int numberOfLaps;
@@ -14,7 +14,7 @@ namespace Formula1.Models
         private readonly ICollection<IPilot> pilots;
 
 
-        protected Race(string raceName, int numberOfLaps)
+        public Race(string raceName, int numberOfLaps)
         {
             this.RaceName = raceName;
             this.NumberOfLaps = numberOfLaps;

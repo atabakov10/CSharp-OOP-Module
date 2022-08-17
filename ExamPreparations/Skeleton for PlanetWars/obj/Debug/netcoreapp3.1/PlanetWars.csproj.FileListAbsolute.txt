@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\bin\Debug\netcoreapp3.1\PlanetWars.exe
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\bin\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\HP\Downloads\01. Structure_Skeleton (5)\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
